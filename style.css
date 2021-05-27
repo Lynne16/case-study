@@ -1,0 +1,100 @@
+.header_div{
+    background: white;
+    color: black;
+}
+.header_div img{
+    width: 100px;
+}
+#bottle_div{
+    text-align: left;
+    background: azure;
+    border-radius: 10px;
+    padding: 5px;
+    width: 500px;
+    height: 600px;
+    box-shadow: 5px 5px 18px aquamarine;
+}
+#bottle_div img{
+    width: 200px;
+}
+
+#shoe_div{
+    text-align: left;
+    background: azure;
+    border-radius: 10px;
+    padding: 5px;
+    width: 500px;
+    height: 500px;
+    box-shadow: 5px 5px 18px aquamarine;
+}
+#shoe_div img{
+    width: 200px;
+    height: 300px;
+}
+
+#HP_DIV{
+    text-align: left;
+    background: azure;
+    border-radius: 10px;
+    padding: 5px;
+    width: 500px;
+    height: 500px;
+    box-shadow: 5px 5px 18px aquamarine;
+}
+#HP_DIV img{
+    width: 200px;
+    height: 300px;
+}
+
+#bird_div{
+    text-align: left;
+    background: azure;
+    border-radius: 10px;
+    padding: 5px;
+    width: 500px;
+    height: 500px;
+    box-shadow: 5px 5px 18px aquamarine;
+}
+#bird_div img{
+    width: 200px;
+    height: 300px;
+}
+
+#bed_div{
+    text-align: left;
+    background: azure;
+    border-radius: 10px;
+    padding: 5px;
+    width: 500px;
+    height: 500px;
+    box-shadow: 5px 5px 18px aquamarine;
+}
+#bed_div img{
+    width: 300px;
+    height: 300px;
+}
+#conclusion{
+    margin-bottom: 50px;
+}
+#conclusion h4{
+    text-align: left;
+    background: rgb(196, 149, 224);
+    border-radius: 10px;
+    padding: 5px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    background-color: rgb(225, 241, 131);
+    line-height: 3;
+}
+#Micro{
+    color: rgb(236, 234, 104);
+}
+#Azure{
+    color: rgb(236, 234, 104);
+}
+
